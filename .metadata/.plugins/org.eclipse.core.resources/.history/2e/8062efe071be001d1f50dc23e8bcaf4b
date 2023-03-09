@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author nikola.ilic
+ *
+ */
+module SpringDemoOne {
+	requires spring.context;
+}
